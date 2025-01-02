@@ -1,7 +1,7 @@
 # Acknowledgments
 Our code is inspired by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
-## Gramian angular difference field
+# Gramian angular difference field
 
 Dimension transformation method of CycleTime.
 
