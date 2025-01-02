@@ -1,6 +1,7 @@
 # Acknowledgments
 Our code is inspired by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
-
+- Our code is inspired by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+- Our data is sourced from the UEA Time Series Classification Repository: https://www.timeseriesclassification.com
 # Gramian angular difference field
 
 Dimension transformation method of CycleTime.
@@ -16,3 +17,4 @@ for i, (label, feature) in enumerate(zip(labels, features)):
     filename = f'trainFaceDetection/image_{i}_label{label}.png'
     plt.imsave(filename, gadf_image[0], cmap='rainbow')
 ```
+
