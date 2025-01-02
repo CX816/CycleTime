@@ -1,5 +1,4 @@
 # Acknowledgments
-Our code is inspired by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - Our code is inspired by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 - Our data is sourced from the UEA Time Series Classification Repository: https://www.timeseriesclassification.com
 # Gramian angular difference field
